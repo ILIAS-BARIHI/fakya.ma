@@ -1,3 +1,10 @@
+# 1.0.0 (2025-06-10)
+
+
+### Features
+
+* arabic in i18n ([95e64f6](https://github.com/ILIAS-BARIHI/fakya.ma/commit/95e64f669c6422ce2da0c498bb0391e7a28c8e15))
+
 # [3.70.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.69.0...v3.70.0) (2025-06-10)
 
 
